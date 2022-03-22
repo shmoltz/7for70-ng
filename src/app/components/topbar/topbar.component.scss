@@ -1,0 +1,58 @@
+.logoImg{
+    margin-top: -30px;
+}
+.logoBg{
+    background: #5c9d17;
+    width: fit-content;
+    padding: 10px;
+}
+
+.longLive {
+    font-weight: 700;
+    line-height: 40px;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+}
+
+.longLive img.pull-right {
+    margin-top: 7px;
+}
+
+img.pull-right,
+.align-right {
+    float: right;
+    margin: 0 0 15px 15px;
+}
+
+.topbar {
+    background-color: #5c9d17 /*002e5b*/;
+    padding: 5px 0;
+    /* color:#fff; */
+    font-size: 11px !important;
+}
+
+.topbar .container .row {
+    margin: 0;
+    padding: 0;
+}
+
+.topbar .container .row .col-md-12 {
+    padding: 0;
+}
+
+.topbar p {
+    margin: 0;
+    display: inline-block;
+    font-size: 11px;
+    color: #f1f6ff;
+}
+
+.topbar p>i {
+    margin-right: 5px;
+    color: #f49009 /*fdd428*/;
+}
+
+.topbar p:last-child {
+    text-align: right;
+}
