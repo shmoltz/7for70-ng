@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "glass-icon-195215"
+  },
+  "targets": {
+    "glass-icon-195215": {
+      "hosting": {
+        "7for70": [
+          "glass-icon-195215"
+        ]
+      }
+    }
+  }
+}
